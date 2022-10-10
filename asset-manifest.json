@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-mal-project/static/css/main.f8a0908c.css",
+    "main.js": "/react-mal-project/static/js/main.e1032bd4.js",
+    "static/media/pika.gif": "/react-mal-project/static/media/pika.26a4ec4e68ce8faa1429.gif",
+    "static/media/funimation.png": "/react-mal-project/static/media/funimation.c2fdb97570a03ce372ca.png",
+    "static/media/gogoanime.png": "/react-mal-project/static/media/gogoanime.4a2148453c6636b939d5.png",
+    "static/media/crunchyroll.png": "/react-mal-project/static/media/crunchyroll.01c815eac5167afb95ca.png",
+    "index.html": "/react-mal-project/index.html",
+    "main.f8a0908c.css.map": "/react-mal-project/static/css/main.f8a0908c.css.map",
+    "main.e1032bd4.js.map": "/react-mal-project/static/js/main.e1032bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a0908c.css",
+    "static/js/main.e1032bd4.js"
+  ]
+}
